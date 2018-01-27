@@ -2,6 +2,10 @@ License of source code
 ----------------------
 
 The MIT License (MIT)
+Modifications for all places:
+Copyright (C) 2018 Grizzly Adam
+
+Original Code:
 Copyright (C) 2014-2016 sfan5
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this
